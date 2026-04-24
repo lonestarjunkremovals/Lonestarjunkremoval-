@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lone Star Junk Removal</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #0b3d2e;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin: 10px 0;
+}
+
+.btn {
+    display: inline-block;
+    background: #ff9800;
+    color: white;
+    padding: 12px 25px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.pricing, .services, .why {
+    background: white;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+.footer {
+    background: #0b3d2e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Lone Star Junk Removal</h1>
+    <p>Fast • Affordable • Same-Day Service</p>
+    <p>Serving Corpus Christi & Surrounding Areas</p>
+    <p><strong>Call/Text: 432-940-8126</strong></p>
+    <a href="tel:4329408126" class="btn">Call Now</a>
+</header>
+
+<section class="pricing">
+    <h2>💰 Pricing</h2>
+    <ul>
+        <li>¼ Load — $0–$100</li>
+        <li>½ Load — $100–$300</li>
+        <li>¾ Load — $300–$550</li>
+        <li>Full Load — $550+</li>
+    </ul>
+    <p>✔️ Labor Included • ✔️ We Load Everything • ✔️ No Hidden Fees</p>
+</section>
+
+<section class="services">
+    <h2>🛠 Our Services</h2>
+    <ul>
+        <li>Furniture Removal</li>
+        <li>Appliance Removal</li>
+        <li>Garage Cleanouts</li>
+        <li>Construction Debris</li>
+        <li>Yard Waste</li>
+    </ul>
+
+    <h2>🌿 Lawn Care</h2>
+    <p>Lawn Mowing & Trimming — Starting at $40</p>
+</section>
+
+<section class="why">
+    <h2>⭐ Why Choose Us</h2>
+    <ul>
+        <li>Fast Response Times</li>
+        <li>Affordable Pricing</li>
+        <li>Local & Reliable</li>
+        <li>No Job Too Big or Small</li>
+    </ul>
+</section>
+
+<section>
+    <h2>📞 Get Your Free Quote</h2>
+    <p>Call or text us today!</p>
+    <p><strong>432-940-8126</strong></p>
+    <p>Email: Lonestarrjunkremoval@gmail.com</p>
+    <a href="tel:4329408126" class="btn">Call Now</a>
+</section>
+
+<div class="footer">
+    <p>© 2026 Lone Star Junk Removal</p>
+</div>
+
+</body>
+</html>
